@@ -12,3 +12,4 @@
 ## Beurten
 1. a - goed!
 2. b - goed!
+3. d
